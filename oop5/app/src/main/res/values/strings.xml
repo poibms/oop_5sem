@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">oop5</string>
+    <string name="add_item">Add new item</string>
+    <string name="sort">Sort</string>
+</resources>
